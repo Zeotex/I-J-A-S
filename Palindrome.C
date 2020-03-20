@@ -1,5 +1,4 @@
 #include<iostream>
-using namespace std;
 {
   Int n, num, digit,rev=0;
   Cout<<"Enter a whole number :";
